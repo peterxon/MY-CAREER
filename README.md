@@ -11,7 +11,7 @@
 
           <p>   Incase you have any job for me, I can easily send you my cv </p>
 
-          
+           <h2> I AM A MAN <h2/> 
 <nav>
 <h1>
     Links
@@ -29,6 +29,6 @@
 
 </nav>
         
-   <h2> I AM A MAN <h2/>     
+      
         
            
